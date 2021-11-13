@@ -1,0 +1,17 @@
+#contenido1
+{
+/*border-style: dashed;*/
+width:30% ;
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+}
+#contenido2{
+/*border-style: dotted;*/
+width: 70%;
+position: absolute;
+right: 0;
+top: 0;
+height: 100%;
+}
